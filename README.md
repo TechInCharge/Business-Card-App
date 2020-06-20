@@ -11,7 +11,6 @@ The App is design to act like a business card for you, where it will display an 
 
 Below is the finished APP from my emulator.
 
-![Finished App] 
 
 <img src="https://github.com/TechInCharge/Business-Card-App/blob/master/Screen%20Shot%202020-06-20%20at%206.31.23%20PM.png" alt="alt text" width="whatever" height="600">
 
