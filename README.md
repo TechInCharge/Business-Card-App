@@ -1,4 +1,4 @@
-## Business Card App  / AppBrewery Course app
+## Business Card App  / AppBrewery Course app 📇
 
 
 This is a sample app, learned as an exmaple from appbrewery.co course.
